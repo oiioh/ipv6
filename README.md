@@ -25,19 +25,19 @@ pip install requests
 ### 3.1任务计划程序
 在任务计划程序中，添加触发器与操作实现自动运行。
 #### 第一步
-![](https://github.com/oiioh/ipv6666/blob/main/image/IMG_20241226_001646.png)
+![](https://github.com/oiioh/ipv6/blob/main/image/IMG_20241226_001646.png)
 
 #### 第二步
-![](https://github.com/oiioh/ipv6666/blob/main/image/IMG_20241226_002043.png)
+![](https://github.com/oiioh/ipv6/blob/main/image/IMG_20241226_002043.png)
 
 #### 第三步
-![](https://github.com/oiioh/ipv6666/blob/main/image/IMG_20241226_002414.png)
+![](https://github.com/oiioh/ipv6/blob/main/image/IMG_20241226_002414.png)
 
 #### 第四步
-![](https://github.com/oiioh/ipv6666/blob/main/image/IMG_20241226_002545.png)
+![](https://github.com/oiioh/ipv6/blob/main/image/IMG_20241226_002545.png)
 
 #### 第五步
-![](https://github.com/oiioh/ipv6666/blob/main/image/IMG_20241226_003116.png)
+![](https://github.com/oiioh/ipv6/blob/main/image/IMG_20241226_003116.png)
 
 
 
