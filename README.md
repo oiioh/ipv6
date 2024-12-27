@@ -72,3 +72,17 @@ ws.Run "wx-ipv6.bat",0
 ```
 C:\Users\hhh\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
 ```
+
+## 4.接收方式
+### 4.1邮箱（以QQ邮箱为例）
+QQ邮箱开启SMTP服务，将python代码中的邮箱地址、授权码、邮箱服务器与端口更改成自己的。
+在QQ或微信中关注QQ邮箱提醒，即可在QQ或微信中接受信息。
+
+### 4.2企业微信
+注册企业微信，在群聊中新建一个机器人，将python代码中的机器人webhook地址替换，即可在企业微信接受信息。
+登录企业微信网页后台，我的企业-微信插件-邀请关注，使用微信扫码二维码，即可在微信中接受信息。
+
+
+
+
+
